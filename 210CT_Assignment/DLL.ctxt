@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DLL
+comment1.params=new_data
+comment1.target=void\ push(int)
+comment2.params=prev_Node\ new_data
+comment2.target=void\ InsertAfter(DLL.Node,\ int)
+comment2.text=Given\ a\ node\ as\ prev_node,\ insert\ a\ new\ node\ after\ the\ given\ node
+comment3.params=new_data
+comment3.target=void\ append(int)
+comment4.params=node
+comment4.target=void\ printlist(DLL.Node)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=Driver\ program\ to\ test\ above\ functions
+numComments=6

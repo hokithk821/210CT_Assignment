@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DoublyNode
+comment1.params=data
+comment1.target=DoublyNode(java.lang.Object)
+comment2.params=data\ previous\ next
+comment2.target=DoublyNode(java.lang.Object,\ DoublyNode,\ DoublyNode)
+numComments=3

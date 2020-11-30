@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Q1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=length
+comment2.target=java.lang.String\ Gress(int)
+comment3.params=input\ answer
+comment3.target=int\ Bull(java.lang.String,\ java.lang.String)
+comment4.params=answerEx\ s
+comment4.target=boolean\ checked(java.lang.String[],\ int)
+comment5.params=answerEx\ s
+comment5.target=boolean\ Crowchecked(java.lang.String[],\ int)
+numComments=6
